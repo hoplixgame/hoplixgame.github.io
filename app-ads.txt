@@ -1,0 +1,2 @@
+# app-ads.txt für Hoplix (Google AdMob)
+google.com, pub-8104075475842821, DIRECT, f08c47fec0942fa0
